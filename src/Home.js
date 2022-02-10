@@ -7,9 +7,9 @@ const Home = () => {
                 I'm Bryce
             </h1>
             <div className='text-purple-900 text-left m-8 mt-14 md:mx-60 leading-loose text-2xl md:text-3xl md:leading-loose'>
-                This is my software portfolio. <br className='md:hidden' /><span className='hidden md:inline'>You can f</span><span className='inline md:hidden'>F</span>ind out <a href='#aboutMe'><span className='transition ease-in-out duration-300 hover:bg-rose-100 bg-sky-100 pb-1 px-1'>more about me</span></a>, <br className='md:hidden xl:inline' />
-                check out <span className='hidden md:inline'>some of </span><a href='/projects'><span className='bg-sky-100 pb-1 px-1 transition ease-in-out duration-300 hover:bg-rose-100'>my projects</span></a>,<br className='md:hidden' />
-                or <span className='hidden md:inline'>reach out and </span><a href='/contact'><span className='bg-sky-100 pb-1 px-1 transition ease-in-out duration-300 hover:bg-rose-100'>get in touch</span></a>.
+                This is my software portfolio. <br className='md:hidden' /><span className='hidden md:inline'>You can f</span><span className='inline md:hidden'>F</span>ind out <a href='#aboutMe'><span className='transition ease-in-out duration-300 hover:bg-rose-100 bg-sky-100 pb-1 px-1 rounded-sm'>more about me</span></a>, <br className='md:hidden xl:inline' />
+                check out <span className='hidden md:inline'>some of </span><a href='/projects'><span className='bg-sky-100 pb-1 px-1 transition ease-in-out duration-300 hover:bg-rose-100 rounded-sm'>my projects</span></a>,<br className='md:hidden' />
+                or <span className='hidden md:inline'>reach out and </span><a href='/contact'><span className='bg-sky-100 pb-1 px-1 transition ease-in-out duration-300 hover:bg-rose-100 rounded-sm'>get in touch</span></a>.
             </div>
             <div className='text-9xl mt-24 mb-32'>
                 <a href='#aboutMe'>
