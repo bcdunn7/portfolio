@@ -1,7 +1,10 @@
 const NotFound = () => {
 
     return (
-        <div>Not found</div>
+        <>
+            <h2>Sorry, Couldn't Find What You Were Looking For</h2>
+            {/* Head back to home page link */}
+        </>
     )
 }
 
